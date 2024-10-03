@@ -34,9 +34,19 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ## Education
 
-- [x] [***RSS JavaScript/Front-end. Stage 0 (2022q4)***](https://rs.school/) 2022-2023
-- [x] [***RSS JavaScript/Front-end. Stage 1 (2023q1)***](https://rs.school/) 2023
-- [x] [***RSS JavaScript/Front-end. Stage 2 (2023q1)***](https://rs.school/) 2023
+✅  [***RSS JavaScript/Front-end. Stage 0 (2022q4)***](https://rs.school/) 2022-2023
+
+✅ [***RSS JavaScript/Front-end. Stage 1 (2023q1)***](https://rs.school/) 2023
+
+✅ [***RSS JavaScript/Front-end. Stage 2 (2023q1)***](https://rs.school/) 2023
+
+## Code example
+
+```js
+console.log('Hello World!');
+```
+
+<kbd>ALT</kbd> + <kbd>F4</kbd>
 
 ## Languages
 
@@ -55,11 +65,3 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 - Responsibility
 - Adaptability
 - Leadership
-
-## Code example
-
-```js
-console.log('Hello World!');
-```
-
-<kbd>ALT</kbd> + <kbd>F4</kbd>
