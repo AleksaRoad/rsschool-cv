@@ -5,9 +5,9 @@
 ### Front-end developer
 
 ##### **Contact information:**
-###### +7 (999) 999-99-99 
-###### Saint-Petersburg, Russia
-###### [eQw6iZ@example.com](mailto:Qw6iZ@example.com)
+###### ☎️ +7 (999) 999-99-99 
+###### 🏠 Saint-Petersburg, Russia
+###### 📩 [eQw6iZ@example.com](mailto:Qw6iZ@example.com)
 
 ___
 
